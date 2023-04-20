@@ -1,5 +1,5 @@
-# ethtps.pages
+# ethtps.mdpages
 
-This repository stores page data for ethtps.info
+This repository stores markdown page data for ethtps.info
 
 Contributions are welcome
