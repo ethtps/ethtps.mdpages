@@ -1,2 +1,5 @@
 # ethtps.pages
-A place for storing pages
+
+This repository stores page data for ethtps.info
+
+Contributions are welcome
